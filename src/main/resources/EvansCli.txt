@@ -1,0 +1,13 @@
+https://github.com/ktr0731/evans
+
+Sirve para reflection cuando esta habilitado
+
+show packages
+show service
+show message
+
+cal RpcDefinition
+
+package namePackage
+
+cuando exista mas de un package
